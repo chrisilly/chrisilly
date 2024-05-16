@@ -1,19 +1,32 @@
-# culling
+Hi! My name is `Chris`.
+### Here are some game (and clone) demos I've made
+_Click to on an image/gif to read more about the project._
 
-Hi! My name is `Chris`. You may also know me as `Silly`.
+<a href="https://github.com/chrisilly/TowerDefence/blob/main/README.md">
+<img src="https://github.com/chrisilly/TowerDefence/assets/103900975/c7b39c6d-c6e2-4438-9855-2bd17d41a91b" width="30%"></img> </a>
+<a href="https://github.com/chrisilly/DonkeyKongClone/blob/master/README.md">
+<img src="https://github.com/chrisilly/DonkeyKongClone/assets/103900975/fb3ebad1-6157-4793-bf33-7f1371593e7c" width="30%"></img> </a>
+<a href="https://github.com/chrisilly/Platformer/blob/main/README.md">
+<img src="https://github.com/chrisilly/Platformer/assets/103900975/b1ffb362-b1f2-4022-b4b6-c4e17943701b" width="30%"></img> </a>
+<a href="https://github.com/chrisilly/ProjectBorderland/blob/main/README.md">
+<img src="https://github.com/chrisilly/chrisilly/assets/103900975/7f3754b4-d118-4d07-8222-d41d6f153b49" width="30%"></img> </a>
+<a href="https://github.com/chrisilly/PacMan/blob/master/README.md">
+<img src="https://github.com/chrisilly/PacMan/assets/103900975/58f40b98-d67e-49c2-8d2e-33896a5e20d1" width="30%"></img> </a>
+<a href="https://github.com/chrisilly/WhackaMole/blob/master/README.md">
+<img src="https://github.com/chrisilly/WhackaMole/assets/103900975/78e3b8ac-3adb-4478-8b58-808b2b5e9d91" width="30%"></img> </a>
 
-# If you don't know me, you should know that...
-### I'm a ghiblicore pinterest girlie desperately trapped in a programmer's body
-  - I'm endlessly chasing the sunflower-polaroid, wax-sealed-letters, mushrooms-and-frogs aesthetic
-  - You should read the book I wrote and published approximately **in 37 years**
-  - If you find the enchanted village in rural Scotland I've been looking for, book me a one-way ticket
-  - Teach me crotcheting, carpentry, or pottery. If you're an artisan or artist of any kind please just kidnap me—I'm begging you. I'll bring flowers! And tea!
-  - If you're into music, you will not regret asking for my Spotify profile. Endless bangers. There is a playlist for every occasion, and if there isn't there will be
-### I'm a bit all or nothing. If I'm in, my obsessive eye for quality knows no bounds
-  - This is mostly a bad thing, but there are plenty of ways to exploit this
-  - If I show interest, *do* meet me with psychotic amounts of enthusiasm and be ready to take advantage of my ruthless, unending reserve of steaming passion
-  - Like a dog, I can be easily tricked into commitment if you just raise the pitch of your voice and increase the rate of speech, carrying it vaguely over positive tonality
-### Here are some of my favourite videos, as a treat
-Laugh | So Sweet | Wow
---- | --- | ---
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=tZJdRxEehPo" target="_blank"><img src="http://img.youtube.com/vi/tZJdRxEehPo/0.jpg" alt="Ranking Eric From Sex Education's Laughs" width="240" height="180" border="10" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=C3MaTO0rXv4" target="_blank"><img src="http://img.youtube.com/vi/C3MaTO0rXv4/0.jpg" alt="Avatar: The Last Airbender Scenes That Comfort Me" width="240" height="180" border="10" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=coPRIKOeeL4" target="_blank"><img src="http://img.youtube.com/vi/coPRIKOeeL4/0.jpg" alt="SPIDER-VERSE x HOLLOW KNIGHT ANIMATION - SPIDORNET into the HALLOW-VERSE" width="240" height="180" border="10" /></a>
+<!--
+[![ the Tower-Defence_Gameplay](https://github.com/chrisilly/TowerDefence/assets/103900975/c7b39c6d-c6e2-4438-9855-2bd17d41a91b)](https://github.com/chrisilly/TowerDefence/blob/main/README.md)
+[![DonkeyKongClone_Gameplay](https://github.com/chrisilly/DonkeyKongClone/assets/103900975/fb3ebad1-6157-4793-bf33-7f1371593e7c)](https://github.com/chrisilly/DonkeyKongClone/blob/master/README.md)
+[![Platformer-Gameplay](https://github.com/chrisilly/Platformer/assets/103900975/b1ffb362-b1f2-4022-b4b6-c4e17943701b)](https://github.com/chrisilly/Platformer/blob/main/README.md)
+[![Player character stands on falling block in spiky cave](https://github.com/chrisilly/chrisilly/assets/103900975/7f3754b4-d118-4d07-8222-d41d6f153b49)](https://github.com/chrisilly/ProjectBorderland/blob/main/README.md)
+[![Pacman-Gameplay-cropped](https://github.com/chrisilly/PacMan/assets/103900975/58f40b98-d67e-49c2-8d2e-33896a5e20d1)](https://github.com/chrisilly/PacMan/blob/master/README.md)
+[![whackamole-gameplay2](https://github.com/chrisilly/WhackaMole/assets/103900975/78e3b8ac-3adb-4478-8b58-808b2b5e9d91)](https://github.com/chrisilly/WhackaMole/blob/master/README.md)
+-->
+
+### If you don't know me, you should know that...
+- I'm endlessly chasing the sunflower-polaroid, wax-sealed-letters, mushrooms-and-frogs aesthetic
+- You should read the masterpiece of a book I wrote and published approximately **in 37 years** <!-- this needs to be dynamic -->
+- If you find the enchanted village in rural Scotland I've been looking for, send me the coordinates this very minute
+- Teach me crotcheting, carpentry, or pottery. If you're an artisan or artist of any kind please just kidnap me—I'm begging you. I'll bring flowers! And tea!
+- If you're into music, you will not regret asking for my Spotify profile. Endless bangers. There is a playlist for every occasion, and if there isn't there will be
