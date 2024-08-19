@@ -1,4 +1,4 @@
-[![Updated Badge](https://badges.pufler.dev/updated/chrisilly/badge-it)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/chrisilly/badge-it)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/chrisilly)](https://badges.pufler.dev) <!-- Badges taken from https://pufler.dev/badge-it/ -->
+[![Updated Badge](https://badges.pufler.dev/updated/chrisilly/chrisilly)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/chrisilly/badge-it)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/chrisilly)](https://badges.pufler.dev) <!-- Badges taken from https://pufler.dev/badge-it/ -->
 
 Hi! My name is `Chris`.
 ### Here are some game (and clone) demos I've made
